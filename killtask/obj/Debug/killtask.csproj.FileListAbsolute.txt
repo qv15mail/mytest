@@ -1,0 +1,5 @@
+D:\myworkspace\smartcardclient\SmartSign\killtask\bin\Debug\killtask.exe
+D:\myworkspace\smartcardclient\SmartSign\killtask\bin\Debug\killtask.pdb
+D:\myworkspace\smartcardclient\SmartSign\killtask\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkspace\smartcardclient\SmartSign\killtask\obj\Debug\killtask.exe
+D:\myworkspace\smartcardclient\SmartSign\killtask\obj\Debug\killtask.pdb

@@ -1,0 +1,5 @@
+D:\myworkspace\smartcardclient\SmartSign\ReBoot\ReBoot\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkspace\smartcardclient\SmartSign\ReBoot\ReBoot\bin\Debug\ReBoot.exe
+D:\myworkspace\smartcardclient\SmartSign\ReBoot\ReBoot\bin\Debug\ReBoot.pdb
+D:\myworkspace\smartcardclient\SmartSign\ReBoot\ReBoot\obj\Debug\ReBoot.exe
+D:\myworkspace\smartcardclient\SmartSign\ReBoot\ReBoot\obj\Debug\ReBoot.pdb
